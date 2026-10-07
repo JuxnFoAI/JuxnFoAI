@@ -1,11 +1,9 @@
 # Juan José Vargas
 
-Cuatro trabajos publicados. Aquí se puede ver cada uno, sin entrar primero al código.
+Mantengo [la web de Ninety Two](https://www.ninetytwoesports.com), el equipo de simracing. Antes se llamaba GTSPAIN 92.
 
-[Ninety Two E-Sports](https://www.ninetytwoesports.com) es la web del equipo de simracing: de dónde viene, quién corre y cómo va la temporada. El código está en [ninety-two-e-sports](https://github.com/JuxnFoAI/ninety-two-e-sports).
+[El gestor de correos](https://github.com/JuxnFoAI/gestor-de-correos-gmail) ordena mi Gmail cada seis horas, aunque el PC esté apagado. Lo molesto va a la papelera y se puede recuperar. Las dos primeras versiones necesitaban el ordenador encendido.
 
-[El gestor de correos](https://github.com/JuxnFoAI/gestor-de-correos-gmail) deja la bandeja de Gmail en orden cada seis horas, con el ordenador apagado. Lo que estorba pasa a la papelera; lo que importa, a un aviso. No hay demo: el correo es de verdad y no se muestra en público.
+El [tablero](https://juxnfoai.github.io/dashboard-de-tareas/) no pide cuenta. Con clave, si se olvida, las tareas no vuelven.
 
-[El tablero de tareas](https://juxnfoai.github.io/dashboard-de-tareas/) se queda en este navegador. Puedes cerrarlo con una clave. Si la olvidas, no hay forma de recuperar lo que guardaste. El código está en [dashboard-de-tareas](https://github.com/JuxnFoAI/dashboard-de-tareas).
-
-[Velura](https://github.com/JuxnFoAI/velura-reproductor-musica) reproduce la música que ya tienes guardada, con la letra siguiendo la canción, y se instala como programa en Windows.
+[Velura](https://github.com/JuxnFoAI/velura-reproductor-musica) reproduce la música del disco. El instalador de Windows avisa porque no está firmado.
